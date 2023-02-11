@@ -1,6 +1,5 @@
 # Analysis-of-ocean-currents-based-on-satellite-data
-In this project I use python to characterized the circulation patterns in the Gulf of Cadiz based on satellite altimetry. Which are briefly described.
-
+In this project I use python to characterized the circulation patterns in the Gulf of Cadiz based on satellite altimetry. 
 -Calculation of geostrophic currents based on satellite altimetry data:
 
 The surface geostrophic velocity is proportional to the slope of the ocean surface topography. This allows indirectly to observe geostrophic circulation through the      measurement of the ocean’s topography by satellites. 
